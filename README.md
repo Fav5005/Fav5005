@@ -1,6 +1,6 @@
 ## Hi, I'm Favour 👋
 
-**Data Analyst|Turning Data into Insights|Storytelling with Data**
+**Data Analyst | Turning Data into Insights | Storytelling with Data**
 ---
 
 ## 🚀 About Me
