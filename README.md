@@ -53,5 +53,5 @@ I'm open to:
 
 ## 📫 Connect With Me
 - 📧 Email: favoufrancesca@gmail.com
-- 💼 LinkedIn: https:www.linkedin.com/in/favour-the-analyst
+- 💼 LinkedIn: https://www.linkedin.com/in/favour-the-analyst
 - 🐦 Twitter: https://X.com/Favvyamara
