@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a data analyst passionate about transforming raw data into meaningful insights that drive smart decisions. I enjoy uncovering trends, buiilding data in a way anyone can understand.
+I'm a data analyst passionate about transforming raw data into meaningful insights that drive smart decisions. I enjoy uncovering trends, building data in a way anyone can understand.
 
 ## ✍️ The Data Lab (My Newsletter)
 📰 I write a data-focused newsletter on Substack: **The Data Lab**
