@@ -1,0 +1,17 @@
+name: Refresh GitBanner
+on:
+  schedule:
+    - cron: '47 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: GitBanner Profile Card
+        uses: yashksaini-coder/GitBanner@v1.3.0
+        with:
+          github-token: ${{ secrets.GITBANNER_PAT }}
