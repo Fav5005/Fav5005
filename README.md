@@ -2,6 +2,7 @@
 
 **Data Analyst | Turning Data into Insights | Storytelling with Data**
 ---
+![GitBanner](./gitbanner.png)
 
 ## 🚀 About Me
 I'm a data analyst passionate about transforming raw data into meaningful insights that drive smart decisions. I enjoy uncovering trends, building data in a way anyone can understand.
