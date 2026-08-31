@@ -1,9 +1,11 @@
 name: Refresh GitBanner
 on:
   schedule:
+    # Daily at an off-peak odd minute — GitHub delays crons scheduled at
+    # popular times. The card only commits when your numbers actually changed,
+    # so quiet days cost nothing.
     - cron: '47 2 * * *'
   workflow_dispatch:
-
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -11,7 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: GitBanner Profile Card
-        uses: yashksaini-coder/GitBanner@v1.3.0
+      - uses: yashksaini-coder/GitBanner@v1.3.0
         with:
           github-token: ${{ secrets.GITBANNER_PAT }}
