@@ -37,7 +37,7 @@ I am a Data Analyst & AI Solutions Engineer based in Lagos, Nigeria. I bridge th
 ---
 
 ### ✍️ Publication & Writing
-I write weekly technical breakdown articles on data analytics, Python programming, and SQL engineering at **[The Data Lab](https://substack.com/@favourokoli1)** on Substack.
+I write weekly technical breakdown articles on data analytics, Python programming, and SQL at **[The Data Lab](https://substack.com/@favourokoli1)** on Substack.
 
 ---
 
